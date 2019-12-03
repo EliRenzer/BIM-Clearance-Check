@@ -1,9 +1,9 @@
 # BIM-Clearance-Check
 Revit Dynamo graph clearance requirements checker. 
 
-This project is a dream that i'm trying to make a reality.
+This project is a dream that I'm trying to make a reality.
 the purpose of the project firstly is to share the idea..
-and motivate others to share and inovate
+and motivate others to share and innovate
 
 The goal is to Open Source Automated Checks for BIM models..
 - For Revit Dynamo
